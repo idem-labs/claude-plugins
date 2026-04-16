@@ -1,0 +1,37 @@
+{
+  "name": "idem-labs",
+  "owner": {
+    "name": "idemfede",
+    "email": "fede.castillo@gmail.com",
+    "url": "https://github.com/idemfede"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by idem-labs: governance frameworks and developer utilities.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "super-compass",
+      "source": {
+        "source": "github",
+        "repo": "idem-labs/super-compass"
+      },
+      "description": "Opinionated project governance framework for Claude Code: CLAUDE.md + PROGRESS/ROADMAP/CHANGELOG/ARCHITECTURE docs + ADRs + lessons + knowledge base + session rituals as slash commands.",
+      "version": "0.1.0",
+      "author": {
+        "name": "idemfede",
+        "url": "https://github.com/idemfede"
+      },
+      "homepage": "https://github.com/idem-labs/super-compass",
+      "repository": "https://github.com/idem-labs/super-compass.git",
+      "keywords": [
+        "governance",
+        "adr",
+        "claude-code",
+        "methodology",
+        "project-structure",
+        "session-protocol"
+      ]
+    }
+  ]
+}
